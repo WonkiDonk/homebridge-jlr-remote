@@ -23,7 +23,7 @@ Example `config.json`:
 ```json
 {
     "platforms": [{
-        "name": "Jaguar Land Rover Remote",
+        "name": "JaguarLandRoverRemote",
         "username": "foo@bar.uk",
         "password": "baa",
         "pin": 1234,
@@ -44,7 +44,7 @@ Example `config.json`:
 
 ### Platform configuraiton values
 
-- `name` must be `Jaguar Land Rover Remote`, as this defines the platform.
+- `name` must be `JaguarLandRoverRemote`, as this defines the platform.
 - `username` is the value you use to log into the **Jaguar Land Rover Remote** app.
 - `password` is the value you use to log into the **Jaguar Land Rover Remote** app.
 - `pin` is the value you use to unlock the **Jaguar Land Rover Remote** app.
