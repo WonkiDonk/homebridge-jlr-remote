@@ -1,0 +1,38 @@
+{
+  "name": "homebridge-jlr-remote",
+  "version": "0.0.1",
+  "description": "Jaguar Land Rover Remote platform for Homebridge",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WonkiDonk/homebridge-jlr-remote.git"
+  },
+  "bugs": {
+    "url": "http://github.com/WonkiDonk/homebridge-jlr-remote/issues"
+  },
+  "author": "William Cowell",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "jaguar",
+    "land rover",
+    "incontrol",
+    "remote",
+    "i-pace",
+    "i pace",
+    "ipace",
+    "homebridge"
+  ],
+  "dependencies": {
+    "homebridge": "^1.1.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.1",
+    "typescript": "^4.1.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
