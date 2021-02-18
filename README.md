@@ -23,7 +23,7 @@ Example `config.json`:
 ```json
 {
     "platforms": [{
-        "name": "JaguarLandRoverRemote",
+        "platform": "JaguarLandRoverRemote",
         "username": "foo@bar.uk",
         "password": "baa",
         "pin": 1234,
