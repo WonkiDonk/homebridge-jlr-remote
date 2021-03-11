@@ -54,5 +54,19 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://liberapay.com/william-cowell/donate"
+    },
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/wpcowell"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/WonkiDonk/"
+    }
+  ]
 }
